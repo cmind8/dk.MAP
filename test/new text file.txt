@@ -1,3 +1,5 @@
 Added first line
-Added Second line
+
 Added third line after password is working
+
+Removed Second line text
