@@ -4,8 +4,12 @@ Removed Second line text
 
 
 Master Branch : Added 6th line
+<<<<<<< HEAD
 Master Branch : Added 7th line
 
 GitHub Master Branch : Added 9th line
 
 GitHub Master Branch : Added 11th line to check fetch
+=======
+Master Branch : Added 7th line
+>>>>>>> parent of 762330e... Update new text file.txt
